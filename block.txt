@@ -5,3 +5,11 @@
 ||kinescopecdn.net^$media
 ||kinescope.io^$websocket
 ||kinescopecdn.net^$websocket
+
+0.0.0.0 ext-strm-*.strm.yandex.net^
+0.0.0.0 strm.yandex.net^*$media
+0.0.0.0 strm.yandex.net^$websocket
+0.0.0.0 kinescope.io^$media
+0.0.0.0 kinescopecdn.net^$media
+0.0.0.0 kinescope.io^$websocket
+0.0.0.0 kinescopecdn.net^$websocket
