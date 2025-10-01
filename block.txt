@@ -1,2 +1,7 @@
-||kinescopecdn.net^
-||strm.yandex.net^
+||ext-strm-*.strm.yandex.net^
+||strm.yandex.net^*$media
+||strm.yandex.net^$websocket
+||kinescope.io^$media
+||kinescopecdn.net^$media
+||kinescope.io^$websocket
+||kinescopecdn.net^$websocket
